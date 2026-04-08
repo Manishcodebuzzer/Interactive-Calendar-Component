@@ -38,4 +38,4 @@ This project is inspired by a physical wall calendar design and enhanced with in
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/interactive-calendar.git
+git clone https://github.com/Manishcodebuzzer/Interactive-Calendar-Component
